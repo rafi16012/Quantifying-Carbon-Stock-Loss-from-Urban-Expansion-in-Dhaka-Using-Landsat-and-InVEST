@@ -1,0 +1,7 @@
+How to use the code:
+
+Step 1: Download the GEE_CODE.txt file
+Step 2: Open the txt file
+Step 3: Under each year the GEE link are given. Copy the link and paste it into browser
+	It will open the GEE console and the full code will appear
+Step 4: Run the code and  wait for loading the result
