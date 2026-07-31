@@ -1,0 +1,14 @@
+GEE_CODE
+
+1992
+https://code.earthengine.google.com/9fd4cb682e9a4d04cd249181cee1c3c7?noload=1
+2000
+https://code.earthengine.google.com/10ea6a2a5761165f4a2b0ce31bc9142e?noload=1
+2008
+https://code.earthengine.google.com/7c0ee27cf571a04982214b097b0784dc?noload=1
+2016
+https://code.earthengine.google.com/7d2d09da2dc4a223795441d8875fd09d?noload=1
+2020
+https://code.earthengine.google.com/d0e9e4a06078ac998f95b331125bb51d?noload=1
+2024
+https://code.earthengine.google.com/e0a11393d23018d3ef4f1700df6a1fec?noload=1
